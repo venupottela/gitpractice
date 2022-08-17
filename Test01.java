@@ -1,6 +1,6 @@
-public class Test01 {
+public class Test09 {
 
 	public static void main(String[] args) {
-		System.out.println("Test1");
+		System.out.println("Test9");
 	}
 }
